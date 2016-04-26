@@ -9,7 +9,7 @@
 <body>
 naverrrrrrrrr
 <h2>second neaverrrrrrrrrrrrr</h2>
-<<<<<<< HEAD
+
 <h2>third push</h2>
 
 <h2>git push</h2>
